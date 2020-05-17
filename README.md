@@ -6,7 +6,7 @@ Despite the death of Google Reader, I still use RSS regularly, and I think lots 
 
 This list was originally inspired by Paul Irish's list of front-end feeds [from 2011](http://www.paulirish.com/2011/web-browser-frontend-and-standards-feeds-to-follow/), but it's evolved quite a bit since then. I built my own list, which I published [in 2014](https://www.impressivewebs.com/frontend-rss-feeds-revisited/), but I felt like it needed another refresh. For this update, I consulted [Šime Vidas' huge feeds list](https://github.com/simevidas/web-dev-feeds) to round this one out, along with a number of other sources.
 
-The feeds list is divided into six sections, which I find is easier to digest when perusing it all weekly, or even daily:
+The feeds list is divided into eleven sections, which I find is easier to digest when perusing it all weekly, or even daily:
 
 1. [The Giants](#the-giants)
 2. [Multi-author Blogs](#multi-author-blogs)
